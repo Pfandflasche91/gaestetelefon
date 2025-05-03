@@ -1,0 +1,31 @@
+Playing WAVE '/home/max/git/gaestetelefon/welcomeMessage.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+Playing WAVE '/home/max/git/gaestetelefon/welcomeMessage.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+Playing WAVE '/home/max/git/gaestetelefon/welcomeMessage.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+Playing WAVE '/home/max/git/gaestetelefon/welcomeMessage.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+Aborted by signal Terminated...
+aplay: pcm_write:2127: write error: Interrupted system call
+Playing WAVE '/home/max/git/gaestetelefon/welcomeMessage.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+Aborted by signal Terminated...
+aplay: pcm_write:2127: write error: Interrupted system call
+Playing WAVE '/home/max/git/gaestetelefon/welcomeMessage.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+Aborted by signal Terminated...
+aplay: pcm_write:2127: write error: Interrupted system call
+Playing WAVE '/home/max/git/gaestetelefon/welcomeMessage.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+Aborted by signal Terminated...
+aplay: pcm_write:2127: write error: Interrupted system call
+Playing WAVE '/home/max/git/gaestetelefon/welcomeMessage.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+Aborted by signal Terminated...
+aplay: pcm_write:2127: write error: Interrupted system call
+Playing WAVE '/home/max/git/gaestetelefon/welcomeMessage.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+Aborted by signal Terminated...
+aplay: pcm_write:2127: write error: Interrupted system call
+Playing WAVE '/home/max/git/gaestetelefon/welcomeMessage.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+Aborted by signal Terminated...
+aplay: pcm_write:2127: write error: Interrupted system call
+Playing WAVE '/home/max/git/gaestetelefon/welcomeMessage.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+Aborted by signal Terminated...
+aplay: pcm_write:2127: write error: Interrupted system call
+Playing WAVE '/home/max/git/gaestetelefon/welcomeMessage.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+Aborted by signal Terminated...
+aplay: pcm_write:2127: write error: Interrupted system call
+Playing WAVE '/home/max/git/gaestetelefon/welcomeMessage.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
